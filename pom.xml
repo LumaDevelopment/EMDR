@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <!-- Vaadin project from https://start.vaadin.com/project/a665bdbb-a422-49f3-82f7-af2a7961f4b4 -->
     <groupId>net.lumadevelopment.emdr</groupId>
-    <artifactId>EMDR</artifactId>
+    <artifactId>emdr2</artifactId>
     <version>RELEASE</version>
     <packaging>jar</packaging>
 
